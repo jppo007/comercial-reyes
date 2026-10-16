@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "nombre": "FOSFORO TALISMAN",
+    "precio": 60,
+    "imagen": "/fosforotalisman.png"
+  },
+  {
+    "id": "2",
+    "nombre": "Cinta Embalaje Transparente",
+    "precio": 680,
+    "imagen": "/cintaembalajetransparente1.png"
+  },
+  {
+    "id": "3",
+    "nombre": "Adhesivo Chemmers",
+    "precio": 3000,
+    "imagen": "/adhesivochemmers.png"
+  },
+  {
+    "id": "4",
+    "nombre": "Tijera escolar",
+    "precio": 390,
+    "imagen": "/tijeraescolar.png"
+  },
+  {
+    "id": "5",
+    "nombre": "Trapero Desinfectante Ecoclean",
+    "precio": 1350,
+    "imagen": "/traperodesinfectante.jpeg"
+  },
+  {
+    "id": "6",
+    "nombre": "Parche Curita Cure Bands",
+    "precio": 1790,
+    "imagen": "/parchecuritacureband.png"
+  },
+  {
+    "id": "7",
+    "nombre": "Globo Kiko x 50 Colores Surtidos",
+    "precio": 1690,
+    "imagen": "/globokiko.png"
+  },
+  {
+    "id": "8",
+    "nombre": "Peineta Grande Colores Surtidos",
+    "precio": 470,
+    "imagen": "/peinetagrande.png"
+  }
+]
