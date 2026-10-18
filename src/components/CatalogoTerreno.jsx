@@ -3,7 +3,7 @@ import React from 'react';
 function CatalogoTerreno() {
   // 💡 AQUÍ ES DONDE ACTUALIZARÁS EL LINK EN EL FUTURO
   // Cuando tengas un catálogo nuevo, solo cambias esta dirección:
-  const linkHeyzine = "https://heyzine.com/flip-book/3acdc9d74a.html";
+  const linkHeyzine = "https://heyzine.com/flip-book/1d8487fd72.html";
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
@@ -19,7 +19,7 @@ function CatalogoTerreno() {
           </p>
         </div>
         <a 
-          href="https://wa.me/56912345678" 
+          href="https://wa.me/56952045261" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-xl transition duration-300 shadow-md flex items-center gap-2 whitespace-nowrap"
